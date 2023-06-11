@@ -189,10 +189,10 @@ export default App;
  margin-left: 5px;
 }
 ~~~
-OUTPUT:
+## OUTPUT:
 ![image](https://github.com/SdMdZahi7/TODO-APPLICATIONS/assets/94187572/02bd530e-c0bc-4e4b-b62b-4c04a17b95d4)
 ![image](https://github.com/SdMdZahi7/TODO-APPLICATIONS/assets/94187572/74423869-8d88-40c8-98ae-ed28f1a5e171)
 
 
-RESULT:
+## RESULT:
 Thus,a todo application is created using react.
